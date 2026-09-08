@@ -8,7 +8,7 @@
 	"url": "https://github.com/opensemanticworld/mediawiki-extensions-RdfExport",
 	"descriptionmsg": "ext-rdfexport-desc",
 	"namemsg": "ext-rdfexport-name",
-	"license-name": "AGPL v3",
+	"license-name": "Apache-2.0",
 	"type": "semantic",
 	"requires": {
 		"MediaWiki": ">= 1.35",
